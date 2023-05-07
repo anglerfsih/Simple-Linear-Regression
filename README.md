@@ -22,15 +22,15 @@ The equation for simple linear regression is:
 y = b0 + b1*x
 
 where:
-y is the dependent variable (also called the response variable)
 
-x is the independent variable (also called the predictor variable)
+y is the dependent variable (Salary)
 
-b0 is the y-intercept (also called the constant term), which represents the value of y when x is equal to 0
+x is the independent variable (YerasExperience)
+
+b0 is the y-intercept which represents the value of y when x is equal to 0
 
 b1 is the slope coefficient, which represents the change in y for a unit increase in x
 
-The equation for simple linear regression shows how the dependent variable y varies with respect to the independent variable x. 
 
 The slope coefficient b1 indicates the direction and magnitude of the relationship between x and y.
 
@@ -40,5 +40,7 @@ A negative value of b1 indicates a negative relationship between x and y, which 
 
 The y-intercept b0 is the value of y when x is equal to 0, which is often not a meaningful value in the context of the problem, but is included to provide a starting point for the line of best fit.
 
+
 Result:
+
 By comparing the actual and predicted numbers, we can see that the regression is positive linear relation and has a 49 percent inaccuracy and can improve by adding more data into the model to reduce the inaccurancy.
